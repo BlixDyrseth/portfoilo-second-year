@@ -9,11 +9,15 @@
 - [Github repo](https://github.com/BlixDyrseth/semester-project-2)
 - [Live](https://warm-creponne-1e0e61.netlify.app/)
 
+---
+
 ### Javascript Frameworks Course assignment
 
 <img src="./img/Skjermbilde 2022-06-12 kl. 14.20.59.png"/>
 
 - [Github repo](https://github.com/Noroff-FEU-Assignments/js-frameworks-course-assignment-BlixDyrseth)
+
+---
 
 ### Project Exam
 
